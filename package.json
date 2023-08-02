@@ -40,11 +40,14 @@
     "json2csv": "^5.0.5",
     "multer": "^1.4.2",
     "mysql": "^2.18.1",
+    "passport": "^0.6.0",
     "passport-jwt": "^4.0.0",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.3",
-    "typeorm": "^0.2.45"
+    "sonarqube-scanner": "^3.0.1",
+    "typeorm": "^0.2.45",
+    "typeorm-model-generator": "^0.4.6"
   },
   "devDependencies": {
     "@nestjs/cli": "^7.5.1",
